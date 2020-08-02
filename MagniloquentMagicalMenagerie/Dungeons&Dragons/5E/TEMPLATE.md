@@ -1,6 +1,6 @@
 # [Item name]
-Rarity: [Rarity]
-Requires Attunement: [Yes/No]
+Rarity: [Common/Uncommon/Rare/Very Rare/Legendary/Artifact/Varies]  
+Requires Attunement: [Yes/No]  
 Item Category: [Armor/Potion/Ring/Rod/Scroll/Staff/Wand/Weapon/Wondrous Item]
 
 ### Description
@@ -9,4 +9,8 @@ Item Category: [Armor/Potion/Ring/Rod/Scroll/Staff/Wand/Weapon/Wondrous Item]
 ### Effects
 [Item effect]
 
-#### Tags
+#### Tags (Optional)
+[Tags]
+
+#### Author
+[Author's name]
