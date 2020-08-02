@@ -4,3 +4,4 @@ A collection of magic items for pen and paper role playing games that have odd e
 ## Contributors
 [Luis M Perez](https://github.com/LuiMoiPer)\
 Chase Gilbert
+Brian O'Dell
