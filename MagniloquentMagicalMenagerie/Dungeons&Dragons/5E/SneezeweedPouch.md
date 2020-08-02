@@ -1,10 +1,11 @@
 # Sneezeweed Pouch
-Rarity: Common\
+Rarity: Uncommon\
 Requires Attunement: No\
 Item Category: Wondrous Item
 
 ### Description
 A small canvas pouch containing dried and powdered sneezeweed.
+The powder is a yellow-green color and is extremely fine.
 
 ### Effects
 The pouch has 10 charges and regains all expended charges daily at dawn.
