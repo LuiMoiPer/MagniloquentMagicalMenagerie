@@ -10,14 +10,14 @@ The powder is a yellow-green color and is extremely fine.
 ### Effects
 The pouch has 10 charges and regains all expended charges daily at dawn.
 As an action a character can expend charges to grab some of the powder throw it at a target within 15ft.
-The target must make a DC 12 DEX save and loses their bonus action for a number of turns listed on the table below.
+The target must make a DC 12 DEX save and loses their bonus action for a number of turns listed on the table below on a failed save, on a successful save the number of turns is halved.
 
-|Charges Used|Failed Save|Successful Save|
-:-:|:-:|:-:
-1|1d4|1d2
-3|2d4|2d2
-6|3d4|3d2
-10|4d4|4d2
+|Charges Used|Failed Save|
+:-:|:-:
+1|1d4
+3|2d4
+6|3d4
+10|4d4
 
 #### Tags
 Utility
