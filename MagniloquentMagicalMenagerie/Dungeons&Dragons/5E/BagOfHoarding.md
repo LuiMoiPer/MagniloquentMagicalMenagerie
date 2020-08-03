@@ -18,7 +18,7 @@ If the bag is overloaded, pierced, or torn, it ruptures and is destroyed, and it
 If the bag is turned inside out, none of its contents spill and the current inside of the bag becomes the extra dimensional space.
 Breathing creatures inside the bag can survive up to a number of minutes equal to 10 divided by the number of creatures (minimum 1 minute), after which time they begin to suffocate.
 
-Object with extradimensional can be placed inside the bag of hoarding like any other item, but a bag of hoarding can not be placed inside an extradimensional space.
+Objects with extradimensional space can be placed inside the bag of hoarding like any other item, but a bag of hoarding can not be placed inside an extradimensional space.
 Placing a bag of hoarding inside an extradimensional space created by a handy haversack, portable hole, or similar item instantly destroys both items and opens a gate to the Astral Plane.
 The gate originates where the one item was placed inside the other.
 Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane. The gate then closes.
