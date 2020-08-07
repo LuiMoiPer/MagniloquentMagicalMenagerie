@@ -1,7 +1,7 @@
 # Sneezeweed Pouch
-Rarity: Uncommon\
-Requires Attunement: No\
-Item Category: Wondrous Item
+**Rarity**: Uncommon\
+**Requires Attunement**: No\
+**Item Category**: Wondrous Item
 
 ### Description
 A small canvas pouch containing dried and powdered sneezeweed.

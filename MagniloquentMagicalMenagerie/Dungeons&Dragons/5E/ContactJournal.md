@@ -1,7 +1,7 @@
 # Contact Journal
-Rarity: Uncommon\
-Requires Attunement: No\
-Item Category: Wondrous Item
+**Rarity**: Uncommon\
+**Requires Attunement**: No\
+**Item Category**: Wondrous Item
 
 ### Description
 A plain leatherbound journal which seems to have a little more 100 pages in it.

@@ -1,7 +1,7 @@
 # Bag of Hoarding
-Rarity: Uncommon\
-Requires Attunement: No\
-Item Category: Wondrous Item
+**Rarity**: Uncommon\
+**Requires Attunement**: No\
+**Item Category**: Wondrous Item
 
 ### Description
 A canvas satchel that seems to be bursting at the seams.
