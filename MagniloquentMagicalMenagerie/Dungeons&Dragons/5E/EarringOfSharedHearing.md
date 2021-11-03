@@ -1,4 +1,8 @@
 # Earring of Shared Hearing
+**Rarity**: Rare\
+**Requires Attunement**: No\
+**Item Category**: Wondrous Item
+
 ### Description
 A pair of simple metal ear cuffs set with a common gem.
 
