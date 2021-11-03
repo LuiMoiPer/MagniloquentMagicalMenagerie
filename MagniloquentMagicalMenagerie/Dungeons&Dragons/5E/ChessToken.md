@@ -12,7 +12,8 @@ As a bonus action, a creature can spend a chess token to move up to 40ft in the 
 Moving in this manner does not provoke attacks of opportunity.
 The creature can also "capture" others in the same manner as the piece depicted on the token they spend.
 If another creature is "captured" then it is swapped with the token user's initial location.
-If the token used is the knight token, then it can use this movement to pass through solid objects. 
+If the token used is the knight token, then it can use this movement to pass through solid objects.
+Once a token is spent, it turns to ash and can no longer be used. 
 
 #### Author
 Luis M Perez
