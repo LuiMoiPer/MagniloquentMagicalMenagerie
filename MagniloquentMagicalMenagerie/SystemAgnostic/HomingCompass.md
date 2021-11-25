@@ -7,7 +7,7 @@ The liquid the needle is supported in glows slightly allowing use in darkness an
 
 ### Effect(s)
 The needle of this compass always points in the direction of its home.
-The home of this compass can be changed by pressing the three buttons on its hosing at the same time.
+The home of this compass can be changed to its current location by pressing the three buttons on its hosing at the same time.
 
 #### Author
 Luis M Perez
