@@ -1,6 +1,6 @@
 # Homing Compass
 **Rarity**: Uncommon\
-**Requires Attunement**: No]\
+**Requires Attunement**: No\
 **Item Category**: Wondrous Item
 
 ### Description
